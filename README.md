@@ -5,7 +5,7 @@ A Player has to move a rectangle across the screen to eat some circles - except 
 
 | Personal Rating | Year of Development | Languages | Tools | Type of Application |
 | --- | --- | --- | --- | --- |
-| ⭐️ (1/5) | 2021 | C++ | SFML | Simulation |
+| ⭐️ (1/5) | 2021 | C++ | SFML | Game |
 
 # Getting Started
 ## Prerequisites and basic information
